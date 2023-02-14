@@ -1,2 +1,2 @@
-printf "hello world\n" cat'e
-printf "hello, world\n"
+echo "hello world\n" cat'e
+echo "hello, world\n"
